@@ -1,5 +1,5 @@
-Eu ligaria 2 interruptores e entraria em uma das salas, ao ver uma luz apagada, saberia um interruptor, desligaria outro , e e traria em outra sala,
+Eu ligaria 2 interruptores e entraria em uma das salas, ao ver uma luz apagada, saberia um interruptor, desligaria outro , e entraria em outra sala,
 caso estivesse apagado, saberia a resposta do outro interruptor. 
 
 o Mesmo no caso de elas estarem acesas, eu apagaria imediatamente uma e entraria em outra sala, caso estivesse apagada, eu checaria a temperatura, caso estivesse quente, 
-saberia a sala na qual o interruptor nao foi ligado.
+saberia a sala na qual o interruptor não foi ligado.
