@@ -1,0 +1,45 @@
+
+a) 1, 3, 5, 7, ___
+
+Essa sequência está aumentando de 2 em 2. O próximo número será 7 + 2 = 9.
+
+Resposta: 9
+
+b) 2, 4, 8, 16, 32, 64, ____
+
+Cada número é obtido multiplicando o número anterior por 2. Então, o próximo número será 64 * 2 = 128.
+
+Resposta: 128
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+
+Essa sequência representa os quadrados dos números naturais de 0 a 6. O próximo número será o quadrado de 7, que é 49.
+
+Resposta: 49
+
+d) 4, 16, 36, 64, ____
+
+Essa sequência representa os quadrados dos números ímpares: 2^2, 4^2, 6^2, 8^2. O próximo número será 10^2 = 100.
+
+Resposta: 100
+
+e) 1, 1, 2, 3, 5, 8, ____
+
+Essa sequência é a famosa sequência de Fibonacci, onde cada número é a soma dos dois anteriores. O próximo número será 8 + 5 = 13.
+
+Resposta: 13
+
+f) 2, 10, 12, 16, 17, 18, 19, ____
+
+Essa sequência parece não seguir uma lógica simples. Vamos analisar as diferenças entre os números:
+
+10 - 2 = 8
+12 - 10 = 2
+16 - 12 = 4
+17 - 16 = 1
+18 - 17 = 1
+19 - 18 = 1
+
+Parece que as diferenças estão aumentando em 1. Então, o próximo número será 19 + 1 = 20.
+
+Resposta: 20
