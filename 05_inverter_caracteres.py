@@ -4,7 +4,6 @@ def inverter_string(string):
         string_invertida += string[i]
     return string_invertida
 
-# Exemplo de utilização
 string_original = input("Digite uma string para inverter: ")
 string_invertida = inverter_string(string_original)
 print("String original:", string_original)
